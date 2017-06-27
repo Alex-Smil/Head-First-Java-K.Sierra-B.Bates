@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MiniMiniMusicApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MiniMiniMusicApp_jar</output-path>
+    <root id="archive" name="MiniMiniMusicApp.jar">
+      <element id="module-output" name="MiniMiniMusicApp" />
+    </root>
+  </artifact>
+</component>
